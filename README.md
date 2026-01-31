@@ -20,7 +20,7 @@ The project includes **all screens, icons, and PNG/SVG assets** to ensure full i
 
 ---
 
-## UX Rationale
+## UX Rationale : Also shared a doc file in detail
 The design decisions were guided by these principles:  
 
 1. **Ease of use:** Buttons, gestures, and navigation are optimized for quick comprehension.  
@@ -33,11 +33,10 @@ The design decisions were guided by these principles:
 
 ## Contents
 - **assets/** – Individual PNG/SVG screens and icons.  
-- **project.zip** – [(https://drive.google.com/file/d/1njFlb_1GM3zAr-auGXZ-4OJWd8Hinome/view?usp=drive_link)]
+- **Assets.zip** – [(https://drive.google.com/file/d/1njFlb_1GM3zAr-auGXZ-4OJWd8Hinome/view?usp=drive_link)]
 - **design page/** – [(https://www.figma.com/design/4s1MJxqzqucROJq8SZZeDt/Yumzo----Food-delivery-App?node-id=0-1&t=Ohs5nZ8rU8apQNdC-1)  ]
-- **demo/** (optional) – If applicable, a small demo file showcasing interactions.
-
+- **demo/** - [https://drive.google.com/file/d/12lY5WfnnX7l8l7xlrX4gYGU0jqko0Jek/view?usp=sharing]
 ## Repository Link
-You can view the full repository here: [GitHub Repo Link](paste-your-repo-link)
+You can view the full repository here:[(https://github.com/SuchonaDewan/Syntechxhub_MobileFood-deliveryAppUI]
 
 **Explore the interactive prototype design** on Figma: [https://www.figma.com/proto/4s1MJxqzqucROJq8SZZeDt/Yumzo----Food-delivery-App?page-id=0%3A1&node-id=13-173&viewport=247%2C81%2C0.27&t=83rxfu3Q230taRtd-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=32%3A2288]
